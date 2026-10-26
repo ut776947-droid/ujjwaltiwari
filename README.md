@@ -1,5 +1,3 @@
-# ujjwaltiwari
-SY. BSc. Forensic Science 
 # Zero-Trust Network Access: Cloudflare Tunnels and MFA
 
 A small educational Flask admin console demonstrating layered access controls:
